@@ -9,7 +9,6 @@ fib(1) ->
 fib(N) when N > 1 ->
     fib(N - 1) + fib(N - 2).
 
-
 fib_tail(N) ->
     fib_tail(N, 0, 1).
 
