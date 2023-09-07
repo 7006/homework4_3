@@ -1,4 +1,4 @@
-{application, lesson3, [
+{application, lesson4, [
     {description, "erlang course 2023 lesson4"},
     {vsn, "git"},
     {registered, []},
